@@ -1,5 +1,5 @@
 # letras-de-musica
-Uma biblioteca que realiza requisições ao site letras.mus.br e retorna informações detalhadas, como o nome do artista, o título da música e a letra completa da canção.
+Uma biblioteca que realiza requisições ao site [letras.mus](https://www.letras.mus.br/) e retorna informações detalhadas, como o nome do artista, o título da música e a letra completa da canção.
 
 ## instalação  
 
@@ -29,10 +29,7 @@ Caso alguma música seja encontrada, um objeto JSON é retornado com a resposta
   "artist:": "Yunk Vino",
   "title": "Leans, Pt. 2",
   "lyrics": 
-   "Baby olha essas notas, tudo em cima de mim\n
-    Essas drogas em cima de mim\n
-    Essas vadias rodeiam o camarim\n
-    Baby eu só consigo dormir com lean\n"
+   "Baby olha essas notas, tudo em cima de mim, essas drogas em cima de mim (...)"
 }
 ```
 
