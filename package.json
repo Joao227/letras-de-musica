@@ -5,11 +5,11 @@
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/eugabrielsilva/vagalume.git"
+        "url": "git+https://github.com/Joao227/letras-de-musica.git"
     },
     "author": "ScriptSantos",
     "license": "MIT",
-    "homepage": "https://github.com/eugabrielsilva/vagalume#readme",
+    "homepage": "https://github.com/Joao227/letras-de-musica#readme",
     "dependencies": {
         "axios": "^1.7.7",
         "cheerio": "^1.0.0",
